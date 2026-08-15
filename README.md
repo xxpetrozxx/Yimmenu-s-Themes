@@ -9,3 +9,4 @@ Steps:
 OR
 
 - Rename your desired theme to themes.json and move it into YimMenuV2's folder.
+Made by ImagineNothing
